@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Folk!+👋;TThis+is+Thrivendra Rudrapati ;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Folk!+👋;TThis+is+Thrivendra+Rudrapati....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
