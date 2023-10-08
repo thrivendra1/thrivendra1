@@ -121,13 +121,8 @@ You can click the Preview link to take a look at your changes.
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thrivendra1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<hr>
 
-
-
-<br/><hr/>
 <h3 align="center">
     ⭐️ From <a href="https://github.com/thrivendra1">Thrivendra</a>
 </h3>
