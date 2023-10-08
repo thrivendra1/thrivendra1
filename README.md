@@ -135,7 +135,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/><hr/>
 <h3 align="center">
-    ⭐️ From <a href="https://github.com/thrivendra1">Divyansh</a>
+    ⭐️ From <a href="https://github.com/thrivendra1">Thrivendra</a>
 </h3>
 
 
