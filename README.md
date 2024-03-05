@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<code><a href="https://www.linkedin.com/in/thrivendra-rudrapati-39508a215/" title="LinkedIn" target="blank"><img width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+<code><a href="https://www.linkedin.com/in/thrivendra/" title="LinkedIn" target="blank"><img width="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 <!--
   <code><a href="https://twitter.com/dibyanshsingh1" title="Twitter Profile" target="blank"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a></code> 
   -->
