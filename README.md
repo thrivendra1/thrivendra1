@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 🌱 I’m currently learning *WEB-Development* & *Data Structures and Algorithms* 
+- 🌱 I’m currently learning *Fullstack JAVA Developer * & *Data Structures and Algorithms* 
 
 - 👯 I’m looking to collaborate on *Open-Source Project*
 
