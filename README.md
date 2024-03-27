@@ -1,13 +1,13 @@
 <!-- <h3 align="center">Hello there, I'm Thrivendra Rudrapati  👋</h3> -->
 <!-- -👋 Hi, I’m @Thrivendra Rudrapati 
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React and FullStack Development
+- 👀 I’m interested in JAVA Developer 
+- 🌱 I’m currently learning Fullstack JAVA Developer and DSA
 - 💞️ I’m looking to collaborate  for open-Source and InternDevelopment
 - 📫 How to reach me email = thrivendra123@gmail.com / Phn-9182280832  -->
 
 
 <!---
-Thrivendra Rudrapati /Thrivendra Rudrapati  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thrivendra  /Thrivendra  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thrivendra1&label=Profile%20views&color=0e75b6&style=flat" alt="thrivendra1" /> </p>
