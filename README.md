@@ -53,7 +53,40 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<p align="center"> 
+## 🚀 My Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-%23443?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%232E2E2E.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-007ACC?style=for-the-badge&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F61?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Sitespeed.io](https://img.shields.io/badge/SiteSpeed.io-EF5B28?style=for-the-badge&logo=javascript&logoColor=white)
+
+### DevOps & Infrastructure
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Monitoring & Observability
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+<!-- <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a> 
@@ -68,7 +101,7 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
+    </a>  -->
 <!--     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>  -->
