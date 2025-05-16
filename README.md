@@ -92,6 +92,7 @@ You can click the Preview link to take a look at your changes.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 -->
 
+<!--
 <!-- <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -139,6 +140,8 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
     </p> -->
+
+    -->
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
