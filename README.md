@@ -1,4 +1,4 @@
-<!-- Profile Views -->
+ <!-- Profile Views -->
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=thrivendra1&label=Profile%20views&color=0e75b6&style=flat" alt="thrivendra1" /> 
 </p>
@@ -44,10 +44,15 @@
 
 <p align="center">
   
-### 💻 Programming Languages  
+<!-- ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white) -->
+### 💻 Programming Languages  
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/> 
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"/> 
+<img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white" height="40"/>
+
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
