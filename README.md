@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thrivendra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="140"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="https://leetcode.com/thrivendra123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
