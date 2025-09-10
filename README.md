@@ -34,9 +34,7 @@
   <a href="https://auth.geeksforgeeks.org/user/thrivendra" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/thrivendra123" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="40" width="100"/>
-  </a>
+
 </p>
 
 
