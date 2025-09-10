@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <h1 align="center">Hi 👋, I'm Thrivendra Rudrapati  </h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 
 
-- 🌱 I’m currently learning *Fullstack JAVA Developer * & *Data Structures and Algorithms* 
+-🌱 Learning and growing in Full Stack Java Development | Exploring Data Structures & Algorithms.
 
 - 👯 I’m looking to collaborate on *Open-Source Project*
 
